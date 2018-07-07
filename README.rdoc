@@ -1,1 +1,2 @@
 This is the repository for an app I'm using to try some things with rails
+clear
